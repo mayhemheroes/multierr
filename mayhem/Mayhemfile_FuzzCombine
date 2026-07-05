@@ -1,0 +1,5 @@
+project: multierr
+target: FuzzCombine
+cmds:
+  - cmd: /mayhem/FuzzCombine
+    libfuzzer: true
